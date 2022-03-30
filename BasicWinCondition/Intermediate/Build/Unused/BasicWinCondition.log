@@ -1,0 +1,12 @@
+﻿  Creating makefile for BasicWinConditionEditor (game project files are newer)
+  Parsing headers for BasicWinConditionEditor
+    Running UnrealHeaderTool "C:\Users\mproo\Documents\GitHub\BasicWinCondition\BasicWinCondition.uproject" "C:\Users\mproo\Documents\GitHub\BasicWinCondition\Intermediate\Build\Win64\BasicWinConditionEditor\Development\BasicWinConditionEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\mproo\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for BasicWinConditionEditor in 186.6006576 seconds
+  Building BasicWinConditionEditor...
+  Using Visual Studio 2019 14.29.30140 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 6 actions with 8 processes...
+    [1/6] WinTriggerCapsule.cpp
+C:\Users\mproo\Documents\GitHub\BasicWinCondition\Source\BasicWinCondition\WinTriggerCapsule.cpp(7): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+    [2/6] BasicWinCondition.init.gen.cpp
+    [3/6] WinTriggerCapsule.gen.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(45,5): error MSB3073: The command ""C:\Program Files\Epic Games\UE_4.26\Engine\Build\BatchFiles\Build.bat" BasicWinConditionEditor Win64 Development -Project="C:\Users\mproo\Documents\GitHub\BasicWinCondition\BasicWinCondition.uproject" -WaitMutex -FromMsBuild" exited with code 6.

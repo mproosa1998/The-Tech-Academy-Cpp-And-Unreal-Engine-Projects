@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BasicWinCondition.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C3853CCD-BBFC-4B24-B6F6-65FC8FD787EE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BasicWinCondition.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BasicWinConditionEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C8C64ED0-BFCF-40F6-9723-A7C2C707EFB1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BasicWinCondition">
+      <UniqueIdentifier>{3A777F07-9CAF-4D7B-B8EC-CBC57AE0DBBD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BasicWinCondition\BasicWinCondition.Build.cs">
+      <Filter>Source\BasicWinCondition</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BasicWinCondition\BasicWinCondition.cpp">
+      <Filter>Source\BasicWinCondition</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BasicWinCondition\BasicWinCondition.h">
+      <Filter>Source\BasicWinCondition</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BasicWinCondition\BasicWinConditionCharacter.cpp">
+      <Filter>Source\BasicWinCondition</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BasicWinCondition\BasicWinConditionCharacter.h">
+      <Filter>Source\BasicWinCondition</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BasicWinCondition\BasicWinConditionGameMode.cpp">
+      <Filter>Source\BasicWinCondition</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BasicWinCondition\BasicWinConditionGameMode.h">
+      <Filter>Source\BasicWinCondition</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BasicWinCondition\WinTriggerCapsule.cpp">
+      <Filter>Source\BasicWinCondition</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BasicWinCondition\WinTriggerCapsule.h">
+      <Filter>Source\BasicWinCondition</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

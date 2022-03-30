@@ -1,0 +1,7 @@
+C:\Users\mproo\Documents\GitHub\BasicWinCondition\Intermediate\Build\Win64\UE4Editor\Development\BasicWinCondition\Definitions.BasicWinCondition.h
+C:\Users\mproo\Documents\GitHub\BasicWinCondition\Source\BasicWinCondition\WinTriggerCapsule.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/TriggerCapsule.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/TriggerBase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TriggerBase.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TriggerCapsule.generated.h
+C:\Users\mproo\Documents\GitHub\BasicWinCondition\Intermediate\Build\Win64\UE4Editor\Inc\BasicWinCondition\WinTriggerCapsule.generated.h

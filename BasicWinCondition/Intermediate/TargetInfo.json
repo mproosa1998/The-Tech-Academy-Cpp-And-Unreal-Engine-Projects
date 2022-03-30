@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BasicWinCondition",
+			"Path": "C:\\Users\\mproo\\Documents\\GitHub\\BasicWinCondition\\Source\\BasicWinCondition.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BasicWinConditionEditor",
+			"Path": "C:\\Users\\mproo\\Documents\\GitHub\\BasicWinCondition\\Source\\BasicWinConditionEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

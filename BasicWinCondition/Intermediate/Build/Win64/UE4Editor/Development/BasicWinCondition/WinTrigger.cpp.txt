@@ -1,0 +1,3 @@
+C:\Users\mproo\Documents\GitHub\BasicWinCondition\Intermediate\Build\Win64\UE4Editor\Development\BasicWinCondition\Definitions.BasicWinCondition.h
+C:\Users\mproo\Documents\GitHub\BasicWinCondition\Source\BasicWinCondition\WinTrigger.h
+C:\Users\mproo\Documents\GitHub\BasicWinCondition\Intermediate\Build\Win64\UE4Editor\Inc\BasicWinCondition\WinTrigger.generated.h
